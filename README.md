@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there ✌🏻
+
+🎢 I’m currently working at Connect & Go <br>
+📚 I’m currently learning Vue.JS <br>
+📫 How to reach me: bvd86@icloud.com <br>
+🍺 Fun fact: I brew my own beer. <br>
 
 <!--
 **bvd86/bvd86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
