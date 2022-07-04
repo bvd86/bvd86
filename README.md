@@ -1,7 +1,7 @@
 ### Hi there ✌🏻
 
 🎢 I’m currently working at Connect & Go <br>
-📚 I’m currently learning React Vue.JS <br>
+📚 I’m currently learning React & Vue.JS <br>
 📫 How to reach me: bvd86@icloud.com <br>
 🍺 Fun fact: I brew my own beer. <br>
 🔭 I’m currently working on small React Project
