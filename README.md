@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Vue.JS Project**
 
-- 👨‍💻 All of my projects are available at [www.billyvd.com](www.billyvd.com)
-
 - 📫 How to reach me **bvd86@icloud.com**
 
 - ⚡ Fun fact **I brew beer and I love playing sports**
