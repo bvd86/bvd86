@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Vue.JS Project**
 
-- 👨‍💻 All of my projects are available at [billyvd.com](billyvd.com)
+- 👨‍💻 All of my projects are available at [www.billyvd.com](www.billyvd.com)
 
 - 📫 How to reach me **bvd86@icloud.com**
 
