@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Billy Veillette-Daigle</h1>
-<h3 align="center">A passionate frontend developer from Montreal</h3>
+<h3 align="center">A passionate fullstack developer from Montreal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bvd86&label=Profile%20views&color=178587&style=flat" alt="bvd86" /> </p>
 
