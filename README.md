@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bvd86&show_icons=true&theme=dracula&locale=en" alt="bvd86" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bvd86&theme=dark" alt="bvd86" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bvd86&theme=radical" alt="bvd86" /></p>
