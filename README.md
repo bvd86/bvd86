@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Multiple Small JavaScript Project**
 
-- 🌱 I’m currently learning **Vue.JS, TypeScript & React**
+- 🌱 I’m currently learning **Vue.JS, TypeScript & SolidJS**
 
 - 👯 I’m looking to collaborate on **Vue.JS Project**
 
